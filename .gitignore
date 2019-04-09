@@ -1,0 +1,7 @@
+_build/
+_build-*/
+_deploy/
+.vs/
+*.user
+*.autosave
+/git_version.json
